@@ -3,7 +3,7 @@
 
 
  
- ### 📌 I am Soundharya.
+  📌 I am Soundharya.
  
  📌 I am currently pursuing Bachelors course in Information Technology!
  
