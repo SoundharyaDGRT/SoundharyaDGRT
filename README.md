@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Soundharya currently pursuing Bachelors course in Information Technology!
-Reach me on LinkedIn: linkedin.com/in/soundharya-srinivasan-18365b1a5
+I am Soundharya currently pursuing Bachelors course in Information Technology
